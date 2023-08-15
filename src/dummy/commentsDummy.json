@@ -1,0 +1,32 @@
+[
+    {
+        "comment": "test 1",
+        "username": "test1",
+        "timestamp": "2019-01-01",
+        "video_id": "64bbaafb408f7fe77253e067"
+    },
+    {
+        "comment": "test 2",
+        "username": "test2",
+        "timestamp": "2019-01-02",
+        "video_id": "64bbaafb408f7fe77253e067"
+    },
+    {
+        "comment": "test 3",
+        "username": "test3",
+        "timestamp": "2019-01-03",
+        "video_id": "64bbaafb408f7fe77253e067"
+    },
+    {
+        "comment": "test 4",
+        "username": "test4",
+        "timestamp": "2019-01-04",
+        "video_id": "64bbaafb408f7fe77253e068"
+    },
+    {
+        "comment": "test 5",
+        "username": "test5",
+        "timestamp": "2019-01-05",
+        "video_id": "64bbaafb408f7fe77253e069"
+    }
+]
